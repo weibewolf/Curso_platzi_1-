@@ -1,15 +1,33 @@
 body
 {
-    color: deepskyblue;
-text-align: center;
+    color: black;
+text-align: left;
 font-family: "monospace";
 font-size: 16px;
+}
+#cabecera
+{
+    background: darkblue;
+    box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
+}
+#cabecera #tagline
+{
+   
+    margin: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+
 }
 #container
 {
     width:70% ;
-    padding: 1em;  
-    text-align: center;
+    padding: 0;  
+    text-align: left;
     border: 10px solid grey;
     margin: 0 auto;
 
@@ -17,4 +35,9 @@ font-size: 16px;
 #conrainer h1
 {
     font-size: 20px;
+}
+#post
+{
+    padding: 1em;
+
 }
