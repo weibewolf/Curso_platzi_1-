@@ -2,6 +2,19 @@ body
 {
     color: deepskyblue;
 text-align: center;
-
 font-family: "monospace";
+font-size: 16px;
+}
+#container
+{
+    width:70% ;
+    padding: 1em;  
+    text-align: center;
+    border: 10px solid grey;
+    margin: 0 auto;
+
+}
+#conrainer h1
+{
+    font-size: 20px;
 }
