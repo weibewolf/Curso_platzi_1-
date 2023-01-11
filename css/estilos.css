@@ -43,15 +43,3 @@ body
     padding: 1em;
 
 }
-#Footer
-{
-    background: gray;
-    text-align: center;
-    
-    box-shadow: 0px 2px 10px 0px rgba(0,0,0,0.5);
-    color: white;
-    font-weight: bold;
-    margin: 0;
-    padding: 0.01em;
-  
-}
