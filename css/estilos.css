@@ -1,12 +1,14 @@
 body
 {
     color: black;
-text-align: left;
-font-family: "monospace";
-font-size: 16px;
+    text-align: left;
+    font-family: "monospace";
+    font-size: 16px;
 }
+
 #cabecera
 {
+
     background: darkblue;
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
